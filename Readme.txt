@@ -3,8 +3,6 @@
 Important Information before running this Program:
 1) All the "FileName.java" files must be copied in same directory(folder).
 2) All the webpages must be in the same directory(folder).
-3) Check java jre and jdk version. If there is a version gap in between jre and jdk, this program may not work.
-   You can compare versions by typing "java -version" and "javac -version" in command prompt after setting appropriate java path in system environment variables.
 
 ###############################################################################################################
 
